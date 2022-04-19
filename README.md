@@ -1,5 +1,5 @@
 # Mini-Facebook-Project
-Implementation of Mini Facebook in Java with SQL (MySQL database)
+Implementation of Mini Facebook in Java (OOP) with SQL (MySQL database)
 
 It acts like real facebook that it fetches mutual friends from friends of user friends and then sorts them by interests.
 
